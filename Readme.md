@@ -1,46 +1,37 @@
-<h2 align="left">Thiago Gabriel</h2>
+# 💫 About Me:
+Estudante de Engenharia de Software com atuação sólida em **desenvolvimento front-end** e **product design**. Minha missão é criar produtos digitais excepcionais que unem funcionalidade, arquitetura robusta e experiência do usuário memorável.
 
-###
+## 💼 Experiência & Competências
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiagogmr1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiagogmr1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- **Desenvolvimento Front-end**: Construção de interfaces modernas, responsivas e escaláveis, com foco em performance e manutenibilidade
+- **Product Design**: Design centrado no usuário (UCD), prototipação e validação de soluções digitais
+- **Metodologias Ágeis**: Experiência prática com Scrum e desenvolvimento iterativo
+- **Empreendedorismo**: Fundador de duas startups, com participação ativa em desenvolvimento técnico, design de produto e estratégia de negócios
 
-###
+## 🎯 Filosofia de Trabalho
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
-</div>
+Acredito na convergência entre **design e engenharia** como pilar para produtos digitais de excelência. Busco constantemente aprimorar minhas habilidades em boas práticas de desenvolvimento, usabilidade e arquitetura de soluções escaláveis.
 
-###
+## 📫 Vamos conectar?
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiagogabriel10" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+Estou sempre aberto a conversas sobre tecnologia, design e inovação! 
 
-  <a href="https://www.instagram.com/thiagogabriel.7/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thiagogabriel10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiagogabriel.7) 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Thiagogmr1/Thiagogmr1/output/snake.svg" alt="Snake animation" />
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thiagogmr1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Thiagogmr1&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogmr1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Thiagogmr1&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Thiagogmr1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

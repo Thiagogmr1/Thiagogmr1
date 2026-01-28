@@ -8,10 +8,6 @@ Estudante de Engenharia de Software com atuação sólida em **desenvolvimento f
 - **Metodologias Ágeis**: Experiência prática com Scrum e desenvolvimento iterativo
 - **Empreendedorismo**: Fundador de duas startups, com participação ativa em desenvolvimento técnico, design de produto e estratégia de negócios
 
-## 🎯 Filosofia de Trabalho
-
-Acredito na convergência entre **design e engenharia** como pilar para produtos digitais de excelência. Busco constantemente aprimorar minhas habilidades em boas práticas de desenvolvimento, usabilidade e arquitetura de soluções escaláveis.
-
 ## 📫 Vamos conectar?
 
 Estou sempre aberto a conversas sobre tecnologia, design e inovação! 

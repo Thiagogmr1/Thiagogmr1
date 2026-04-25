@@ -8,7 +8,7 @@ Desenvolvedor focado em **Front-end** e **Product Design**, com interesse em con
 
 Atuo no desenvolvimento de interfaces modernas e na criação de experiências digitais eficientes, combinando código e design para entregar produtos consistentes.
 
-- 💻 Stack principal: React, Ruby on Rails, JavaScript
+- 💻 Stack principal: React, Next, JavaScript, Figma
 - 🎨 Product Design com foco em UX
 - ⚙️ Experiência com metodologias ágeis (Scrum)
 - 🚀 Fundador de projetos com foco em tecnologia

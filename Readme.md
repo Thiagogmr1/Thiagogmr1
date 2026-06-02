@@ -17,17 +17,38 @@ Atuo no desenvolvimento de interfaces modernas e na criação de experiências d
 
 ## 🧩 Projetos em destaque
 
-### Plataforma de Gestão de Atendimentos (Projeto Privado)
+### 🩺 MediTrack — Plataforma de Adesão ao Tratamento
+
+Sistema desenvolvido para auxiliar no acompanhamento de pacientes, com envio automatizado de lembretes de medicamentos via WhatsApp e monitoramento da adesão ao tratamento.
+
+✅ Projeto já testado e validado em ambiente ambulatorial com pacientes de diferentes faixas etárias.
+
+**Minha atuação:**
+
+* Desenvolvimento full stack da aplicação
+* Criação da interface web com Next.js
+* Desenvolvimento da API REST com FastAPI
+* Integração com API oficial do WhatsApp via Twilio
+* Implementação de autenticação JWT
+* Modelagem e integração com banco PostgreSQL
+* Deploy e configuração de infraestrutura
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, Twilio API, JWT, Vercel, Railway, Cloudflare
+
+---
+
+### 📋 Plataforma de Gestão de Atendimentos *(Projeto Privado)*
 
 Sistema desenvolvido em equipe para centralizar e organizar demandas recebidas via WhatsApp, permitindo melhor gestão e acompanhamento por parte da coordenação.
 
-- 🔒 Código privado (projeto empresarial)
+🔒 Código privado (projeto empresarial)
 
 **Minha atuação:**
-- Desenvolvimento front-end com React
-- Estruturação de componentes e organização da interface
-- Colaboração no design de produto (UX/UI)
-- Integração com fluxo de mensagens
+
+* Desenvolvimento front-end com React
+* Estruturação de componentes e organização da interface
+* Colaboração no design de produto (UX/UI)
+* Integração com fluxo de mensagens
 
 **Stack:** React, TypeScript, JavaScript, Prisma, PostgreSQL, Redis, Figma
 

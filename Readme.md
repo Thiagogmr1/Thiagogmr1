@@ -66,12 +66,6 @@ Sistema desenvolvido em equipe para centralizar e organizar demandas recebidas v
 
 ---
 
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogmr1&layout=compact)
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/thiagogabriel10  
